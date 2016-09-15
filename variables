@@ -1,0 +1,18 @@
+<html>
+<body>
+
+<h1>javascript variables</h1>
+
+<p>In this example, x, y, and z are varibles</p>
+
+<p id="demo"></p>
+
+<script>
+var x = 5;
+var y = 6;
+var z = x + y;
+document.getElementById("demo").innerHTML = z;
+</script>
+
+</body>
+</html>
